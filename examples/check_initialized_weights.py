@@ -2,7 +2,6 @@
 Created by:
     Author: Bhuwan Khatiwada
     Date: 28/12/2023
-    Organization: Treeleaf Technologies Pvt. Ltd.
 """
 from neural_network.utils.weights import initialize_weights
 
